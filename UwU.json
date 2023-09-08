@@ -14,9 +14,7 @@
       "BACKGROUND_TERTIARY": ["#000000"],
       "BACKGROUND_ACCENT": ["#08080A"],
       "SPOILER_HIDDEN_BACKGROUND": ["#1E1F22"],
-      "SPOILER_REVEALED_BACKGROUND": ["#232428"],
-      "BACKGROUND_MODIFIER_ACTIVE": ["#FFB0ED"],
-      "BACKGROUND_MODIFIER_SELECTED": ["#FFE7F7"]
+      "SPOILER_REVEALED_BACKGROUND": ["#232428"]
     },
 
     "rawColors": {
@@ -26,9 +24,9 @@
       "PRIMARY_700": "#08080A",
       "PRIMARY_800": "#08080A",
 
-      "BRAND_260": "#FFB0ED",
-      "BRAND_360": "#FFB0ED",
-      "BRAND_500": "#FFB0ED",
+      "BRAND_260": "#FFE7F7",
+      "BRAND_360": "#FFE7F7",
+      "BRAND_500": "#FFE7F7",
       "BRAND_560": "#FFE7F7"
     }
   }
